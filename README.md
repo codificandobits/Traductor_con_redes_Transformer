@@ -6,9 +6,9 @@ Código fuente de [este](https://youtu.be/p2sTJYoIwj0) video, en donde se muestr
 
 - Instalar la librería [Keras Transformer](https://github.com/CyberZHG/keras-transformer): 
     pip install keras-transformer
-- Descargar el set de entrenamiento de [este](https://drive.google.com/file/d/1kjtq5ywpoqjPtWyzfbqXTSLQHP-lhym7/view?usp=sharing) enlace
+- Descargar el set de entrenamiento de [este](https://mega.nz/file/3hphFSaI#H8Y_3pa5g8k8C34-Z00U1Inb6TTkuJ73ZpjtIW2VoAs) enlace
 - Ejecutar el código fuente *machine-translation-transformers.ipynb* desde Google Colab usando GPUs
 
 ## Modelo pre-entrenado
 
-También es posible usar un modelo pre-entrenado, disponible en [este](https://drive.google.com/file/d/1u5oRUfZfs-muhoyAq7rCyXPjiMwgWLqo/view?usp=sharing) enlace.
+También es posible usar un modelo pre-entrenado, disponible en [este](https://mega.nz/file/v4wSjIwb#-zjb02yHPFVQWP406JqOMJ7NwOISkE8DVEZ_r_rLFjg) enlace.
